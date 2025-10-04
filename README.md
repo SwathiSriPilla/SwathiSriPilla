@@ -1,4 +1,4 @@
-# Swathi Sri Pilla - QA Portfolio
+# Swathi Sri Pilla - Deleivery & Customer Success Manager Portfolio
 
 ![PMP Certified](https://img.shields.io/badge/Certified-PMP-blue)
 ![ITIL Certified](https://img.shields.io/badge/Certified-ITIL-green)
