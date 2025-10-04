@@ -1,4 +1,4 @@
-# Swathi Sri Pilla - Delivery & Customer Success Manager Portfolio
+# Swatti Sri Pilla - Delivery & Customer Success Manager Portfolio
 
 ![PMP Certified](https://img.shields.io/badge/Certified-PMP-blue)
 ![ITIL Certified](https://img.shields.io/badge/Certified-ITIL-green)
